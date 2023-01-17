@@ -1,0 +1,3 @@
+INSERT INTO `user` (`SSN`, `fname`, `lname`, `email`, `phone`, `nationailty`, `password`, `birthdate`, `isadmin`, `gender`) VALUES ('1234567890', 'Admin', 'Admin', 'Admin@Admin.com', '01234567890', 'Egypt', '202cb962ac59075b964b07152d234b70', '2022-12-01', b'1', 'male');
+INSERT INTO `branch` (`branchID`, `country`, `city`) VALUES ('3', 'Egypt', 'Tanta')
+INSERT INTO `branch` (`branchID`, `country`, `city`) VALUES ('1', 'Egypt', 'Alexandria'), ('2', 'Egypt', 'New Giza');
